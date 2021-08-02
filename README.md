@@ -1,2 +1,2 @@
-# JenkinsPipelinedemo
+# JenkinsPipelineDemo
 Just for Jenkins tutorials
